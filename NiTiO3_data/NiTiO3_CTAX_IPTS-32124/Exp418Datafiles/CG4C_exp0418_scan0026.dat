@@ -1,0 +1,35 @@
+# scan = 26
+# date = 4/29/2024
+# time = 7:44:57 PM
+# proposal = 32124
+# experiment = Investigation of Spin Waves and Magnetic Interactions in NiTiO3
+# experiment_number = 418
+# command = scan h 0.2 k 0.2 l 2.4 e -0.2 0.2 0.1
+# builtin_command = scan h 0.2 k 0.2 l 2.4 e -0.2 0.2 0.1
+# users = Armando Di Biase, John Schneeloch, Despina Louca, Rathnayaka Mudiyanselage Dilan Srimal Rathnayaka
+# local_contact = Tao Hong
+# scan_title = 
+# monochromator = PG002
+# analyzer = Pg002
+# sense = -+-
+# collimation = 48-40-40-120
+# samplename = Single crystal
+# sampletype = crystal
+# samplemosaic = 30.000000
+# latticeconstants = 5.048583,5.048583,13.854450,90.000000,90.000000,120.000000
+# ubmatrix = -0.191810,-0.191810,0.018010,-0.049423,-0.049423,-0.069896,0.114359,-0.114359,0.000000
+# mode = 0
+# plane_normal = 0.000000,0.000000,1.000000
+# ubconf = UB29Apr2024_70313PM.ini
+# preset_type = normal 
+# preset_channel = time
+# preset_value = 1.000000
+# def_x = e
+# def_y = detector
+# col_headers = 
+#   Pt.          h          k          l          e       time   detector    monitor        mcu focal_length         m1         m2       marc     mtrans     mfocus         s1         s2        sgl        sgu        bbb        bbl        bbr        bbt        bab        bal        bar        bat        stl        stu         a1         a2     afocus        qm1        qm2        qm3        qm4        qm5        qm6        qm7        qm8        xm1        xm2        xm3        xm4        xm5        xm6        xm7        xm8          q         ei         ef        vti     sample       temp
+      1     0.1793     0.1793     2.5200     0.2742      0.000      0.000      0.000      0.000   100.5558   141.0625   -73.5089     0.4200    -1.0000    27.8400   -57.8725    46.8136     0.0000     0.0000     0.0000     0.0000     0.0000     0.0000    25.0000    25.0000    25.0000    25.0000     0.0000     0.0000   142.0306   -75.9388     0.0000     0.0000     0.0000     0.0000     0.0000     0.0000     0.0000     0.0000     0.0000     0.0000     0.0000     0.0000     0.0000     0.0000     0.0000     0.0000     0.0000     1.2269     5.0742     4.8000     0.0000     0.0000   100.000
+# Sum of Counts = 0
+# Center of Mass = NaN+/-NaN
+# Full Width Half-Maximum = NaN+/-NaN
+# 7:49:19 PM  4/29/2024   scan stopped!!

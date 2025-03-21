@@ -1,0 +1,158 @@
+********************************************************************************
+   General Structure Analysis System-II Crystal Structure Refinement
+              by Robert B. Von Dreele & Brian H. Toby
+                Argonne National Laboratory(C), 2010
+ This product includes software developed by the UChicago Argonne, LLC,
+            as Operator of Argonne National Laboratory.
+                          Please cite:
+   B.H. Toby & R.B. Von Dreele, J. Appl. Cryst. 46, 544-549 (2013)
+********************************************************************************
+ Least squares controls:
+ Refinement type: analytic Hessian
+ Maximum number of cycles: 3
+ Regularize hydrogens (if any): False
+ Initial shift factor: 1.000
+
+ Phases:
+
+ Phase name: Ni O3 Ti
+=======================================================================================================================================
+
+ X-ray scattering factors:
+   Symbol     fa                                      fb                                      fc
+---------------------------------------------------------------------------------------------------
+ Ni        12.83760   7.29200   4.44380   2.38000   3.87850   0.25650  12.17630  66.34210   1.03410
+ Ti         9.75950   7.35580   1.69910   1.90210   7.85080   0.50000  35.63380 116.10500   1.28070
+ O          3.04850   2.28680   1.54630   0.86700  13.27710   5.70110   0.32390  32.90890   0.25080
+
+ Electron scattering factors:
+   Symbol     fa                                                fb
+---------------------------------------------------------------------------------------------------
+ Ni         0.23130   1.06570   1.82290   2.26090   1.18830   0.12100   1.26910   5.68700  27.09170  83.02850
+ Ti         0.21230   0.89600   2.17650   3.04360   2.44390   0.13990   1.45680   6.75340  33.11680 101.82380
+ O          0.03650   0.17290   0.58050   0.88140   0.31210   0.06520   0.61840   2.94490   9.62980  28.21940
+
+ Neutron scattering factors:
+   Symbol   isotope       mass       b       resonant terms
+---------------------------------------------------------------------------------------------------
+ Ni      Nat. Abund.     58.700    1.030
+ Ti      Nat. Abund.     47.900   -0.337
+ O       Nat. Abund.     15.999    0.581
+
+ Space Group: R -3
+ The lattice is centrosymmetric R-centered trigonal
+ The Laue symmetry is 3
+ The lattice point group is -3
+ Multiplicity of a general site is 18
+ The inversion center is located at 0,0,0
+ 
+ The equivalent positions are:
+
+ (0,0,0; 2/3,1/3,1/3; 1/3,2/3,2/3)+
+
+ ( 1)     X,     Y,     Z 
+ ( 2)    -Y,   X-Y,     Z 
+ ( 3)   Y-X,    -X,     Z 
+
+ Atoms:
+   name    type  refine?   x         y         z      frac site sym  mult I/A   Uiso     U11     U22     U33     U12     U13     U23
+---------------------------------------------------------------------------------------------------------------------------------------
+    Ni1     Ni          0.00000   0.00000   0.35300   1.000      3    6    I 0.01000                                                
+    Ti1     Ti          0.00000   0.00000   0.14200   1.000      3    6    I 0.01000                                                
+     O1      O          0.30500   0.00000   0.25000   1.000      1   18    I 0.01000                                                
+
+ Unit cell: a = 5.04403 b = 5.04403 c = 13.82013 alpha = 90.000 beta = 90.000 gamma = 120.000 volume = 304.507 Refine? False
+
+ Phase: Ni O3 Ti in histogram: PWDR VIS_EED_62684-62684_NiTiO3_10mm_V_can_slits_10x50_at_5K.gsa Bank 4
+=======================================================================================================================================
+ Phase fraction  :          1 Refine? False
+ Extinction coeff:     0.0000 Refine? False
+ March-Dollase PO:     1.0000 Refine? False Axis: 0 0 1
+
+ Size model    : isotropic equatorial:       1.000 Refine? False
+	 LG mixing coeff.:       1.0000 Refine? False
+
+ Mustrain model: isotropic equatorial:      1000.0 Refine? False
+	 LG mixing coeff.:      1.0000 Refine? False
+
+ Hydrostatic/elastic strain:
+ names :         D11         D33
+ values:           0           0
+ refine:       False       False
+
+ Phase: Ni O3 Ti in histogram: PWDR VIS_EED_62684-62684_NiTiO3_10mm_V_can_slits_10x50_at_5K.gsa Bank 6
+=======================================================================================================================================
+ Phase fraction  :          1 Refine? False
+ Extinction coeff:     0.0000 Refine? False
+ March-Dollase PO:     1.0000 Refine? False Axis: 0 0 1
+
+ Size model    : isotropic equatorial:       1.000 Refine? False
+	 LG mixing coeff.:       1.0000 Refine? False
+
+ Mustrain model: isotropic equatorial:      1000.0 Refine? False
+	 LG mixing coeff.:      1.0000 Refine? False
+
+ Hydrostatic/elastic strain:
+ names :         D11         D33
+ values:           0           0
+ refine:       False       False
+ Layer Displacement:      0.000 Refine? False
+
+ Histogram: PWDR VIS_EED_62684-62684_NiTiO3_10mm_V_can_slits_10x50_at_5K.gsa Bank 4 histogram Id: 3
+=======================================================================================================================================
+ Instrument type: Debye-Scherrer
+ Histogram limits:  2364.99 msec to     5.39 msec
+
+ Sample Parameters:
+ Goniometer omega = 0.00, chi = 0.00, phi = 0.00
+ name  :         Scale    Absorption     DisplaceX     DisplaceY
+ value :        1.0000        0.0000        0.0000        0.0000
+ refine:          True         False         False         False
+
+ Instrument Parameters:
+ name  :     2-theta     Azimuth           X           Y           Z        Zero       alpha
+ value :   90.000000    0.000000    0.649869    4.974809    0.000000   81.401845    0.967753
+ refine:       False                   False       False       False       False       False
+
+ name  :      beta-0      beta-1      beta-q        difA        difB        difC     fltPath       sig-0       sig-1
+ value :    0.021229    0.031034    0.000000    3.688970  -27.400293 5878.758180   10.000000  340.453345  853.864016
+ refine:       False       False       False       False       False       False                   False       False
+
+ name  :       sig-2       sig-q
+ value :  161.264379    0.000000
+ refine:       False       False
+
+ Background function: chebyschev-1 Refine? True
+ Coefficients:      1.000     0.000     0.000
+ Fixed background file: ; mult: 1.000  Refine? False
+
+ Histogram: PWDR VIS_EED_62684-62684_NiTiO3_10mm_V_can_slits_10x50_at_5K.gsa Bank 6 histogram Id: 5
+=======================================================================================================================================
+ Instrument type: Debye-Scherrer
+ Histogram limits:  2376.30 msec to     5.39 msec
+
+ Sample Parameters:
+ Goniometer omega = 0.00, chi = 0.00, phi = 0.00
+ name  :         Scale    Absorption     DisplaceX     DisplaceY
+ value :        1.0000        0.0000        0.0000        0.0000
+ refine:          True         False         False         False
+
+ Instrument Parameters:
+ name  :     2-theta     Azimuth           X           Y           Z        Zero       alpha
+ value :   90.000000    0.000000    1.323713    1.062904    0.000000   11.334227    0.247018
+ refine:       False                   False       False       False       False       False
+
+ name  :      beta-0      beta-1      beta-q        difA        difB        difC     fltPath       sig-0       sig-1
+ value :    0.018436    0.013713    0.000000   -1.252096    0.658901 5908.790390   10.000000  377.314273  295.821580
+ refine:       False       False       False       False       False       False                   False       False
+
+ name  :       sig-2       sig-q
+ value :   52.502376    0.000000
+ refine:       False       False
+
+ Background function: chebyschev-1 Refine? True
+ Coefficients:      1.000     0.000     0.000
+ Fixed background file: ; mult: 1.000  Refine? False
+
+ Refinement results:
+---------------------------------------------------------------------------------------------------------------------------------------
